@@ -1,0 +1,21 @@
+[      
+        {"name": "Paris",
+        "country": "France",
+        "bestFor": "Culture and languages",
+        "tip": "Explore the city beyond the main tourist areas and take part in student activities."},
+       
+        {"name": "Buenos Aires",
+        "country": "Argentina",
+        "bestFor": "Culture and social life",
+        "tip": "Get involved in university activities and explore different neighborhoods."},
+   
+        {"name": "Milan",
+        "country": "Italy",
+        "bestFor": "Business and fashion",
+        "tip": "Take advantage of the international student community and university events."},
+    
+        {"name": "Amsterdam",
+        "country": "Netherlands",
+        "bestFor": "International experience",
+        "tip": "Organize your accommodation early and get involved in student activities."}
+]
